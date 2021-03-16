@@ -33,13 +33,8 @@ const Footer = () => {
               <SocialIconLink href='/' target='_blank' aria-label='Youtube'>
                 <FaYoutube />
               </SocialIconLink>
-              <SocialIconLink
-                href='//www.twitter.com/briandesignz'
-                target='_blank'
-                aria-label='Twitter'
-                rel='noopener noreferrer'
-              >
-                <FaTwitter />
+              <SocialIconLink href='/' target='_blank' aria-label='Twitter'>
+                 <FaTwitter />
               </SocialIconLink>
               <SocialIconLink href='/' target='_blank' aria-label='Linkedin'>
                 <FaLinkedin />
@@ -53,3 +48,6 @@ const Footer = () => {
 };
 
 export default Footer;
+               
+
+            
